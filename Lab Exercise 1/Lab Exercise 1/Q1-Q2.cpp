@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main1()
 {
 	//Q1
 	int array[] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9 };
@@ -17,7 +17,7 @@ int main()
 	//Q2
 	for (int& ref : array)
 	{
-		ref++;
+		//ref++;
 		std::cout << ref << "\n";
 	}
 
