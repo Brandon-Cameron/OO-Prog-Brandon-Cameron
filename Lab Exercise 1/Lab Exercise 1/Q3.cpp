@@ -13,7 +13,7 @@ int sumSquares(int *t_ptr, int t_elements)
 	return sum;
 }
 
-int main()
+int main2()
 {
 	int array[] = { 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, };
 	int* ptrArray = array;

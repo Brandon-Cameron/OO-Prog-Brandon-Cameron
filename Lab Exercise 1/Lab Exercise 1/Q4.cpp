@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main()
+int main3()
 {
 	enum Enemy{ ZOMBIE, BOSS, ARCHER };
 
